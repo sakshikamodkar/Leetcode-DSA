@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
