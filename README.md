@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@
 | [0058-length-of-last-word](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
