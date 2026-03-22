@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
+| [0136-single-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
