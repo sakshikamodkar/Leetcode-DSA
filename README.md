@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -72,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
