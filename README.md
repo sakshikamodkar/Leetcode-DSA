@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
@@ -69,6 +70,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -77,5 +79,6 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
