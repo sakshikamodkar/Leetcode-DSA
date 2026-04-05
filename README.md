@@ -21,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -37,6 +39,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
