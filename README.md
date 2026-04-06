@@ -21,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -74,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
