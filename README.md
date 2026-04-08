@@ -25,6 +25,7 @@
 | [0070-climbing-stairs](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
