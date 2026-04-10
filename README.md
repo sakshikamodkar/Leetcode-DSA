@@ -25,6 +25,7 @@
 | [0070-climbing-stairs](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -75,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,8 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
