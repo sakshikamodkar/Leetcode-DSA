@@ -60,6 +60,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## String Matching
@@ -96,4 +97,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0071-simplify-path](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
