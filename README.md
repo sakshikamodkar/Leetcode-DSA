@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0016-3sum-closest](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0053-maximum-subarray](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0016-3sum-closest](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0202-happy-number/) | Easy |
@@ -111,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0071-simplify-path/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
