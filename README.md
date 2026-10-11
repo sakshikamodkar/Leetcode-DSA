@@ -51,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0231-power-of-two](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -142,4 +143,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/sakshikamodkar/Leetcode-DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
